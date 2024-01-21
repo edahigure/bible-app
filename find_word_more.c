@@ -91,7 +91,7 @@ int split_count(char *str)
    int n=0;
    int j=0;
    int count=0;
-   while( str[j] != NULL ){       
+   while( str[j] != '\0' ){       
        if(str[j]==' ' || str[j]=='-' || str[j]=='.' ) count++;
        j++;
    }
@@ -217,7 +217,6 @@ int main(int num_arg,char **av)
 
 int main_2(int num_arg,char **av)
 {
-
     char *book,*word;
     char all_books[100][100]={
 "genesis",
@@ -287,7 +286,6 @@ int main_2(int num_arg,char **av)
 "jude",
 "revelation",
 };
-    
     if (num_arg==1 ){
     return 0;
     }
@@ -314,6 +312,7 @@ int main_2(int num_arg,char **av)
 
     return 0;
     }
+    return 0;
 }
 
 void read_book(char * book,int i_chap_num,int i_ver_num,char* word)
