@@ -153,8 +153,9 @@ int main(int ac,char **av)
         read_s(fd,str);
         chap_num=atoi(str);
         if( chap_num ==i_chap_num){
-          printf("\n\033[0;94m%s\033[0m ","1");
+          
           read_s(fd,str);
+         
           while(isDigit(str[0])==false ){
             if( i_ver_num==1 )
               printf("\033[0;93m%s\033[0m ",str);
@@ -163,7 +164,7 @@ int main(int ac,char **av)
           while( strcmp(str,"CHAPTER")!=0 ){
             if(isDigit(str[0])==true){
               ver_num=atoi(str);
-              if(ver_num<=f_ver_num ||  all_chap==true){
+              if((ver_num>=i_ver_num && ver_num<=f_ver_num) ||  all_chap==true){
                 printf("\n\033[0;94m%s\033[0m ",str);
               }                                    
             }
