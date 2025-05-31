@@ -216,17 +216,30 @@ if  false; then
 
 ./bible matthew 9  27  31   #Jesus sana 2 ciegos
 
-fi
+
 ./bible matthew 9  32  34   #Jesus sana mudo 
 
 ./bible mark    6  1  6 
 ./bible matthew 9  35       #Jesus va por todas las ciudades y villas 
 
+fi
 
-./bible matthew 9  36 38  
+./bible matthew 9  36 38    #Jesus manda dicipulos
+
+./bible matthew 10  1 42    #Jesus manda dicipulos
+./bible luke    9  1  5     #Jesus manda dicipulos
+./bible mark    6  7  11    #Jesus manda dicipulos
 
 
 
+./bible mark    6  12  13   #dicipulos predican sanan y liberan
+./bible luke    9  6        #dicipulos predican sanan y liberan
+
+exit
+./bible mark    6  14  16   #Herodes Escucha milagros de Jesus y lo confunde con Juan 
+./bible luke    9   7   10
+
+./bible mark    6  17  29   # muerte de juan el dia del cumpleaños de herodes 
 
 
 
