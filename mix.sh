@@ -93,11 +93,6 @@ if  false; then
 ./bible luke    4  42  44 #Lo encuentran en la mañana
 
 
-
-
-
-
-
 ./bible luke    5  1  3  #Predica en el bote
 ./bible luke    5  4  11 #Pesca milagrosa
 ./bible luke    5  12  16 #Jesus sana a un leproso capernaum
@@ -117,21 +112,26 @@ if  false; then
 ./bible matthew 9  9  
 
 
-
-./bible mark    2  15  22  #Fiesta de Levi
-./bible luke    5  29  39 
 ./bible matthew 9  10  13
+./bible luke    5  29  39 
+./bible mark    2  15  22  #Fiesta de Levi
 
 
 ./bible mark    2  23  28  #dicipulos comen trigo en sabado
-./bible luke    6  1   5
+./bible matthew 12 1   9 
+./bible luke    6  1   5	
 
 
-./bible mark    3  1   6  #Jesus sana mano seca en sabado
+
 ./bible luke    6  6   11
+./bible matthew 12 10   13 
+./bible mark    3  1   6  #Jesus sana mano seca en sabado
 
 
+
+./bible matthew 12 14  21
 ./bible mark    3  7   12 #Jesus se va al mar
+
 
 
 
@@ -153,15 +153,34 @@ if  false; then
 
 
 ./bible luke 	 7  11  18  #Nain Jesus resucita muerto
+
+
+
 ./bible luke 	 7  19 23   #Juan manda dicipulos a Jesus 
 
+./bible matthew 11 1  6   #Juan manda dicipulos a Jesus 
+
+
+
+./bible matthew 11 7 15   #Jesus da testimonio de Juan
 ./bible luke 	 7  24 30  #Jesus da testimonio de Juan 
+
+
 ./bible luke 	 7  31 35  #generacion que no lloro ni bailo
+
+./bible matthew 11 16 19   #generacion que no lloro ni bailo
+
+./bible matthew 11 20 24 #Jesus Reprende ciudades impenitentes
+
+./bible matthew 11 25 27  #Jesus agradece que se revelo a bebes
+
+./bible matthew 11 28 30  #venid a mi trabajados y cansados
+
 
 ./bible luke 	 7  36 50  # fiesta en casa de Fariseo, Magdalena?
 
 
-./bible luke    8  1   3   #predica en cada ciudad villa  magdalena es nombrada
+./bible luke    8  1   3   #magdalena es nombrada
 ./bible mark    3  20  21  #multitud y Sus amigos vienen por él
 
 ./bible mark    3  22  30  #Blasfemia contra el espiritu santo
@@ -193,9 +212,10 @@ if  false; then
 ./bible luke    8  22  25  #Jesus cruza el mar hacia gadara
 
 
-./bible matthew 8  28  34  
-./bible mark    5  1  20   #endemoniado gadareno
-./bible luke    8  26 39    #endemoniado gadareno
+./bible matthew 8  28  34  #Gergesenes,
+./bible mark    5  1  20   #endemoniado gadarenos,
+./bible luke    8  26 39   #endemoniado gadareno
+
 
 ./bible luke    8  40       #Jesus regresa capernaum 
 ./bible mark    5  21
@@ -222,7 +242,7 @@ if  false; then
 ./bible mark    6  1  6 
 ./bible matthew 9  35       #Jesus va por todas las ciudades y villas 
 
-fi
+
 
 ./bible matthew 9  36 38    #Jesus manda dicipulos
 
@@ -235,22 +255,76 @@ fi
 ./bible mark    6  12  13   #dicipulos predican sanan y liberan
 ./bible luke    9  6        #dicipulos predican sanan y liberan
 
-exit
-./bible mark    6  14  16   #Herodes Escucha milagros de Jesus y lo confunde con Juan 
-./bible luke    9   7   10
-
-./bible mark    6  17  29   # muerte de juan el dia del cumpleaños de herodes 
 
 
+./bible luke    9   7  9  #Herodes Escucha milagros de Jesus 
+./bible mark    6  14  16   #Herodes Escucha milagros de Jesus 
+
+ 
+./bible mark    6  17  29   # muere juan en cumpleaños de herodes 
+
+
+./bible mark    6   30  34   #Jesus y los dicipulos se van Bethsaida a descansar
+./bible luke    9   10  11		#Jesus y los dicipulos se van Bethsaida a descansar
+
+
+./bible luke    9   12  17   #Jesus alimenta 5000 y sobran 12 cestas
+./bible mark    6   35  44   #Jesus alimenta 5000 y sobran 12 cestas
 
 
 
+./bible mark    6   45  46   #Jesus se va solo a orar y manda a sus dicipulos al otro lado
+
+./bible mark    6   47  52   #Jesus camina sobre las aguas y lo creen fantasma
+
+./bible mark    6   53  56   #Jesus llega a Gennesaret
+
+./bible mark    7   1   23   #Los fariseos critican manos sucias   
+./bible mark    7   24  30   #Jesus sana hija de sirofenicia bordes de tiro y sidon
+
+
+./bible mark    7   31  37   #Jesus sana sordo mudo en las costas de decapolis 
+
+./bible mark 	 8   1   9	  #Jesus alimenta 4000
+
+./bible mark    8   10   13 #los fariseos demandan señal del cielo en Dalmanutha.
+
+./bible mark    8   14   21  #Jesus advierte de la levadura de los fariseos
+
+./bible mark    8   22   26  #Jesus sana un ciego con saliva
 
 
 
+./bible mark    8   27   30  #Jesus pregunta a sus dicipulos quien es el
+./bible luke    9   18   21 
+
+./bible luke    9   22       #Jesus predice su muerte
+./bible mark    8   31   
+
+./bible mark    8   32   33  #Jesus regaña a pedro
+
+./bible mark    8   34   38   #negarse asi mismo y no negarlo a el
+./bible luke    9   23   26
+
+./bible luke    9   27       #Predice que algunos lo veran en su gloria
+./bible mark    9   1
+
+./bible mark    9   2   10   #Monte de la transfiguración
+./bible luke    9   28  36 
 
 
+./bible mark    9  11  13   #Preguntan si elias no debia venir primero
+
+./bible mark    9  14  29   #demonio que solo sale con oracion y ayuno 
+./bible luke    9  37  42 
 
 
+./bible luke    9  43  45 
+./bible mark    9  30  32   #Jesus predice su muerte de nuevo 
 
+./bible luke    9  46  48   #dicipulos discuten quien sera el mas grande
+./bible mark    9  33  37
 
+fi
+./bible mark    9  38  50   #John prohibio echar fuera demonios en nombre de jesus
+./bible luke    9  49  50
