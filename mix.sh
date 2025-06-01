@@ -211,7 +211,6 @@ if  false; then
 ./bible mark    4  35  41  #Jesus cruza el mar hacia gadara
 ./bible luke    8  22  25  #Jesus cruza el mar hacia gadara
 
-
 ./bible matthew 8  28  34  #Gergesenes,
 ./bible mark    5  1  20   #endemoniado gadarenos,
 ./bible luke    8  26 39   #endemoniado gadareno
@@ -325,6 +324,24 @@ if  false; then
 ./bible luke    9  46  48   #dicipulos discuten quien sera el mas grande
 ./bible mark    9  33  37
 
-fi
+
 ./bible mark    9  38  50   #John prohibio echar fuera demonios en nombre de jesus
 ./bible luke    9  49  50
+
+./bible mark    10  1  12  #Fariseos preguntan sobre el divorcio
+./bible mark    10  13  17  #Dejar que los niños se acerquen
+
+./bible mark    10  17  23   #Joven rico 
+./bible mark    10  24  27   #Mas facil que camello entre por aguja
+
+./bible mark    10  28  31   #Pedro le dice que dejo todo 
+
+
+./bible luke    9   51  56
+./bible mark    10  32  33   #Jesus predice su  muerte camino a Jerusalem
+
+
+fi
+./bible matthew 8  18  22  #Jesus ordena cruzar el mar 
+./bible luke    9  57  62   #Las zorras tienen cuevas y las aves nidos
+exit
