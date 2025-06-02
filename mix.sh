@@ -170,9 +170,9 @@ if  false; then
 
 ./bible matthew 11 16 19   #generacion que no lloro ni bailo
 
-./bible matthew 11 20 24 #Jesus Reprende ciudades impenitentes
+#./bible matthew 11 20 24 #Jesus Reprende ciudades impenitentes
 
-./bible matthew 11 25 27  #Jesus agradece que se revelo a bebes
+#./bible matthew 11 25 27  #Jesus agradece que se revelo a bebes
 
 ./bible matthew 11 28 30  #venid a mi trabajados y cansados
 
@@ -183,9 +183,36 @@ if  false; then
 ./bible luke    8  1   3   #magdalena es nombrada
 ./bible mark    3  20  21  #multitud y Sus amigos vienen por él
 
+
+fi
+
+./bible matthew 9  32  34    #Jesus sana mudo 
+./bible luke    11  14  26   #sanar mudo y sordo, blasfemia contra el espiritu,
 ./bible mark    3  22  30  #Blasfemia contra el espiritu santo
+
 ./bible mark    3  31  35  #vienen su madre y sus hermanos
 ./bible luke    8  19  21  #vienen su madre y sus hermanos
+
+
+
+
+./bible luke    11  27  28   #benditos los pechos que te dieron de mamar
+
+
+./bible luke    11  29  30   #señal de jonas 
+
+./bible luke    11  31  32    #reina de sheba y los hombres de ninive en el juicio
+
+./bible luke    11  33  36   #la lampara del cuerpo 
+
+
+./bible luke    11  37  45   #cena en casa de fariseo les llama sepulcros blanqueados
+
+
+exit
+
+
+
 
 ./bible mark    4  1   2    #Jesus enseña desde la barca
 
@@ -216,7 +243,7 @@ if  false; then
 ./bible luke    8  26 39   #endemoniado gadareno
 
 
-./bible luke    8  40       #Jesus regresa capernaum 
+./bible luke    8  40      #Jesus regresa capernaum 
 ./bible mark    5  21
 
 ./bible matthew 9  18  19   #Jairo busca a Jesus
@@ -233,34 +260,30 @@ if  false; then
 ./bible luke    8  49  56   #Jesus sana hija de Jairo
 ./bible matthew 9  23  26 
 
+
 ./bible matthew 9  27  31   #Jesus sana 2 ciegos
 
-
-./bible matthew 9  32  34   #Jesus sana mudo 
+#./bible matthew 9  32  34   #Jesus sana mudo 
 
 ./bible mark    6  1  6 
 ./bible matthew 9  35       #Jesus va por todas las ciudades y villas 
 
 
 
-./bible matthew 9  36 38    #Jesus manda dicipulos
-
-./bible matthew 10  1 42    #Jesus manda dicipulos
-./bible luke    9  1  5     #Jesus manda dicipulos
-./bible mark    6  7  11    #Jesus manda dicipulos
-
-
+./bible matthew 9  36 38    #Jesus manda 12 dicipulos
+./bible matthew 10  1 42    #Jesus manda 12 dicipulos
+./bible luke    9  1  5     #Jesus manda 12 dicipulos
+./bible mark    6  7  11    #Jesus manda 12 dicipulos
 
 ./bible mark    6  12  13   #dicipulos predican sanan y liberan
 ./bible luke    9  6        #dicipulos predican sanan y liberan
 
 
-
-./bible luke    9   7  9  #Herodes Escucha milagros de Jesus 
-./bible mark    6  14  16   #Herodes Escucha milagros de Jesus 
+./bible luke    9   7  9     #Herodes Escucha milagros de Jesus 
+./bible mark    6  14  16    #Herodes Escucha milagros de Jesus 
 
  
-./bible mark    6  17  29   # muere juan en cumpleaños de herodes 
+./bible mark    6  17  29    #muere juan en cumpleaños de herodes 
 
 
 ./bible mark    6   30  34   #Jesus y los dicipulos se van Bethsaida a descansar
@@ -282,7 +305,7 @@ if  false; then
 ./bible mark    7   24  30   #Jesus sana hija de sirofenicia bordes de tiro y sidon
 
 
-./bible mark    7   31  37   #Jesus sana sordo mudo en las costas de decapolis 
+./bible mark    7   31  37   #Jesus sana sordo mudo en las costas de decapolis con sus dedos y saliva 
 
 ./bible mark 	 8   1   9	  #Jesus alimenta 4000
 
@@ -326,22 +349,58 @@ if  false; then
 
 
 ./bible mark    9  38  50   #John prohibio echar fuera demonios en nombre de jesus
-./bible luke    9  49  50
+./bible luke    9  49  50   
 
-./bible mark    10  1  12  #Fariseos preguntan sobre el divorcio
-./bible mark    10  13  17  #Dejar que los niños se acerquen
 
-./bible mark    10  17  23   #Joven rico 
-./bible mark    10  24  27   #Mas facil que camello entre por aguja
+
+./bible luke    10   1   12  # Jesus manda a 70
+./bible luke    10   13  16  # Jesus reprende ciudades impenitentes
+./bible matthew 11   20  24  # Jesus Reprende ciudades impenitentes  
+
+
+./bible luke    10   17  20  #Los setenta regresan con exito encluso los demonios se sujetan en tu nombre 
+
+
+
+./bible luke    10  21  22   #Se lo revelaste a bebes
+./bible matthew 11  25  27
+
+
+./bible luke    10  23  24   #Benditos son porque ven y oyen cosas que otros quisieron profetas y reyes
+
+./bible luke    10  25  37   #parabola del buen samaritano
+
+./bible luke    10  38  42   #martha atareada
+
+./bible luke    11  1   4    #padre nuestro
+
+./bible luke    11  5   13   #Jesus enseña de la oracion
+
+
+./bible mark    10  1  12    #costas de juedea Fariseos preguntan sobre el divorcio
+./bible mark    10  13  17   #Dejar que los niños se acerquen
+
+./bible mark    10  17  22   #Joven rico 
+./bible mark    10  23  27   #Mas facil que camello entre por aguja
 
 ./bible mark    10  28  31   #Pedro le dice que dejo todo 
 
 
-./bible luke    9   51  56
-./bible mark    10  32  33   #Jesus predice su  muerte camino a Jerusalem
+./bible mark    10  32  34   #Jesus predice su muerte camino a Jerusalem
+
+./bible mark    10  35  45   #Juan y santiago quieren sentarse en el trono 
+
+./bible mark    10  46  52   #camino jerusalem en jerico Jesus sana a Bartimaeus
 
 
-fi
-./bible matthew 8  18  22  #Jesus ordena cruzar el mar 
-./bible luke    9  57  62   #Las zorras tienen cuevas y las aves nidos
-exit
+
+./bible luke    9   51  56   #descender fuego del cielo que los consuma
+./bible luke    9   57  62   #Los zorros tienen cuevas 
+./bible matthew 8   18  22   #Jesus ordena cruzar el mar 
+
+
+
+
+
+
+
