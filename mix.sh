@@ -1,7 +1,8 @@
 #!/bin/bash
 
 if  false; then
-
+./bible luke    1  1  4
+fi
 ./bible luke    1  1  4
 ./bible john    1  1  14
 ./bible matthew 1  1  17 
@@ -341,7 +342,6 @@ if  false; then
 ./bible mark    10  32  33   #Jesus predice su  muerte camino a Jerusalem
 
 
-fi
+
 ./bible matthew 8  18  22  #Jesus ordena cruzar el mar 
 ./bible luke    9  57  62   #Las zorras tienen cuevas y las aves nidos
-exit
