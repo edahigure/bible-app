@@ -2,7 +2,7 @@
 
 if  false; then
 ./bible luke    1  1  4
-fi
+
 ./bible luke    1  1  4
 ./bible john    1  1  14
 ./bible matthew 1  1  17 
@@ -185,38 +185,47 @@ fi
 ./bible mark    3  20  21  #multitud y Sus amigos vienen por él
 
 
-fi
 
 ./bible matthew 9  32  34    #Jesus sana mudo 
 ./bible luke    11  14  26   #sanar mudo y sordo, blasfemia contra el espiritu,
 ./bible mark    3  22  30  #Blasfemia contra el espiritu santo
 
-./bible mark    3  31  35  #vienen su madre y sus hermanos
-./bible luke    8  19  21  #vienen su madre y sus hermanos
+./bible mark    3  31  35		#vienen su madre y sus hermanos
+./bible luke    8  19  21		#vienen su madre y sus hermanos
 
 
 
+./bible luke    11  27  28		#benditos los pechos que te dieron de mamar
 
-./bible luke    11  27  28   #benditos los pechos que te dieron de mamar
+./bible luke    11  29  30		#señal de jonas 
 
+./bible luke    11  31  32		#reina de sheba y los hombres de ninive en el juicio
 
-./bible luke    11  29  30   #señal de jonas 
+./bible luke    11  33  36		#la lampara del cuerpo 
 
-./bible luke    11  31  32    #reina de sheba y los hombres de ninive en el juicio
+./bible luke    11  37  45		#cena en casa de fariseo les llama sepulcros blanqueados
 
-./bible luke    11  33  36   #la lampara del cuerpo 
-
-
-./bible luke    11  37  45   #cena en casa de fariseo les llama sepulcros blanqueados
-
-
-exit
+./bible luke    11  46  54		#Hay de los doctores de la ley
 
 
+./bible luke    12	1	3		#Guardaos de lalevadura de los fariseos
+
+./bible luke    12	4	5		#no temas los que matan el
+
+./bible luke    12	6	7		#valen mas que pajaros muchos
+
+./bible luke    12	8	9		#confesarme delante de los hombres
+
+./bible luke    12	10			#blasfemia contra el espiritu santo
+
+./bible luke    12	11	12		#no piensen que habran de decir el espiritu se los dara en la misma hora
 
 
+
+	
+
+ 
 ./bible mark    4  1   2    #Jesus enseña desde la barca
-
 
 ./bible mark    4  3   9    #parabola del sembrador 
 ./bible luke    8  4   8   #parabola del sembrador
@@ -238,6 +247,8 @@ exit
 ./bible matthew 8  18  22  #Jesus ordena cruzar el mar 
 ./bible mark    4  35  41  #Jesus cruza el mar hacia gadara
 ./bible luke    8  22  25  #Jesus cruza el mar hacia gadara
+
+
 
 ./bible matthew 8  28  34  #Gergesenes,
 ./bible mark    5  1  20   #endemoniado gadarenos,
@@ -310,7 +321,7 @@ exit
 
 ./bible mark 	 8   1   9	  #Jesus alimenta 4000
 
-./bible mark    8   10   13 #los fariseos demandan señal del cielo en Dalmanutha.
+./bible mark    8   10   13  #los fariseos demandan señal del cielo en Dalmanutha.
 
 ./bible mark    8   14   21  #Jesus advierte de la levadura de los fariseos
 
@@ -352,6 +363,9 @@ exit
 ./bible mark    9  38  50   #John prohibio echar fuera demonios en nombre de jesus
 ./bible luke    9  49  50   
 
+./bible luke    9   51  56   #descender fuego del cielo que los consuma
+./bible luke    9   57  62   #Los zorros tienen cuevas 
+./bible matthew 8   18  22   #Jesus ordena cruzar el mar 
 
 
 ./bible luke    10   1   12  # Jesus manda a 70
@@ -395,9 +409,6 @@ exit
 
 
 
-./bible luke    9   51  56   #descender fuego del cielo que los consuma
-./bible luke    9   57  62   #Los zorros tienen cuevas 
-./bible matthew 8   18  22   #Jesus ordena cruzar el mar 
 
 
 
@@ -405,8 +416,3 @@ exit
 
 
 
-
-
-
-./bible matthew 8  18  22  #Jesus ordena cruzar el mar 
-./bible luke    9  57  62   #Las zorras tienen cuevas y las aves nidos
