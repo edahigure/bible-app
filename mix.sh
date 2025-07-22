@@ -136,8 +136,8 @@ if  false; then
 
 
 
-./bible mark    3  13   19  #Jesus sube la montaña
-./bible luke    6  12   16  #Jesus llama sus dicipulos 
+./bible mark    3   13   19  #Jesus sube la montaña
+./bible luke    6   12   16  #Jesus llama sus dicipulos 
 
 ./bible matthew 5
 ./bible matthew 6
@@ -145,21 +145,21 @@ if  false; then
 
 ./bible matthew 8  1  4    #Jesus sana leproso bajando de la montaña
 
-./bible luke    6  17   19  #Jesus baja de la montaña
-./bible luke    6  20   49  # Sermon de la planicie
+./bible luke    6   17   19  #Jesus baja de la montaña
+./bible luke    6   20   49  # Sermon de la planicie
 
 
-./bible luke 	 7  1  10   #capernaum Jesus sana siervo de centurion
-./bible matthew 8  5  13   #capernaum Jesus sana siervo de centurion
+./bible luke 	7   1   10   #capernaum Jesus sana siervo de centurion
+./bible matthew 8   5   13   #capernaum Jesus sana siervo de centurion
 
 
-./bible luke 	 7  11  18  #Nain Jesus resucita muerto
+./bible luke 	7   11  18  #Nain Jesus resucita muerto
 
 
 
-./bible luke 	 7  19 23   #Juan manda dicipulos a Jesus 
+./bible luke 	7   19  23   #Juan manda dicipulos a Jesus 
 
-./bible matthew 11 1  6   #Juan manda dicipulos a Jesus 
+./bible matthew 11  1   6   #Juan manda dicipulos a Jesus 
 
 
 
@@ -220,9 +220,46 @@ if  false; then
 
 ./bible luke    12	11	12		#no piensen que habran de decir el espiritu se los dara en la misma hora
 
+./bible luke    12	13	21		#guardaos de la avaricia	
+
+./bible luke    12	22	31		#no os preocupeis que habeis de vestir buscar primeramente el reino de Dios
+
+./bible luke    12	32		   #El padre os ha dado el reino
+
+./bible luke    12	33	34		#donde esta tu tesoro esta tu corazon
+
+./bible luke    12	35			#tened lomos ceñidos y luces encendidas
+
+./bible luke    12	36	40		#parabola se como siervos que esperan a su amo venir de las bodas
+
+./bible luke    12	41			#Pedro pregunta a quien dice esta parabola
+
+./bible luke    12	42	48		#Jesus amplia la parabola, al que mucho le es dado mucho le es pedido
+
+./bible luke    12	49	53		#No he venido a traer paz sino division
+
+./bible luke    12	54	56		#pueden discernir la faz del cielo y de la tierra
+
+./bible luke    12	57	59		#Arreglate con tu adversario en camino el
 
 
-	
+
+./bible luke    13	1	5		#Pilato mezclo la sangre de galileanos con sus sacrificios y la torre de Siloam
+		
+./bible luke    13	6	10		#parabola la higera en la viña que no da fruto por 3 años
+
+./bible luke	 13	11	13		#Jesus sana mujer con espiritu de enfermedad por 18 años
+
+./bible luke	 13	14	17		#Se indigna el principal de los sacerdotes
+
+
+./bible luke	 13	18	19		#El reino como semilla de moztaza
+
+./bible luke	 13	20	21		#El reino como levadura escondida
+
+
+
+
 
  
 ./bible mark    4  1   2    #Jesus enseña desde la barca
@@ -230,11 +267,11 @@ if  false; then
 ./bible mark    4  3   9    #parabola del sembrador 
 ./bible luke    8  4   8   #parabola del sembrador
 
-./bible mark    4  10  13  #pregunta de la parabola
-./bible luke    8  9   10  #pregunta de la parabola
+./bible mark    4  10  13  #pregunta de la parabola del sembrador
+./bible luke    8  9   10  #pregunta de la parabola del sembrador
 
-./bible mark    4  14  20  #explicacion parabola
-./bible luke    8  11  15  #explicacion parabola
+./bible mark    4  14  20  #explicacion parabola del sembrador
+./bible luke    8  11  15  #explicacion parabola del sembrador
 
 ./bible mark    4  21  23  #donde poner la lampara
 ./bible luke    8  16  18  #donde poner la lampara
@@ -405,11 +442,331 @@ if  false; then
 
 ./bible mark    10  35  45   #Juan y santiago quieren sentarse en el trono 
 
+
+./bible luke	 13	22			#Jesus enseña yendo hacia Jerusalem
+
+./bible luke	 13	23			#Son pocos los que se salvan?
+
+./bible luke	 13	24	30		#Entrar por la puerta angosta vendran del sur del norte y se sentaran con Abraham Isac y Jacob
+
+./bible luke	 13	31	33		#Fariseo le dice que herodes lo quiere matar
+
+./bible luke	 13	34	35		#Jerusalem tu casa es dejada desolada
+	
+./bible luke	 14	1	6		#en casa de un pricipal de los fariseos Jesus sana un enfermo de hidropesia en sabado, pregunta si es legal sanar en sabado
+
+./bible luke	 14	7	11		#Parabola Sientese hasta atras en una boda
+
+./bible luke	 14	12	14		#cuando hagas banquete invita aquienes no pueden devolverte el favor
+
+./bible luke	 14	15	24		#parabola ir por los caminos y forcenlos a entrar que se llene mi casa
+
+./bible luke	 14	24	35 	#quienes no pueden ser su dicipulo
+
+
+
+./bible luke    15	1	3		#murmuraban los fariseos porque andaba con publicanos y pecadores
+
+./bible luke    15	4	7		#parabola de las 100 ovejas 1 perdida
+
+./bible luke	 15	8	10		#Parabola mujer pierde dracma	
+
+./bible luke	 15	11	32		#Parabola del hijo prodigo
+
+./bible luke	 16	1	8		#Parabola mayordomo injusto
+
+
+#echo Haced amigos con las riquezas de maldad	
+./bible luke	 16	9  		
+
+
+#echo el que es fiel en lo poco tambien en lo mucho lo será
+./bible luke	 16	10	 12	
+
+#echo ningun siervo puede servir amos dos
+./bible luke	 16	13	
+
+./bible luke	 16	14		#los fariseos oian estas cosas y se burlaban porque eran avaros
+
+./bible luke	 16	15		#lo que es sublime para los hombres es abominacion para Dios
+
+./bible luke	 16	16		#La ley y los profetas hasta juan
+
+./bible luke	 16	17		#mas fácil que pase cielo y tierra a que se frustre una tilde de la ley
+
+./bible luke 	 16	18    #Cualquiera que repudia a su mujer, y se casa con otra, adultera;
+
+
+
+./bible luke 	 16	19	 31	#Parabola de Lázaro y el hombre rico
+	
+./bible luke 	 17	1 	 2    #imposible es que no vengan escandalos muela de molino y ser hechado al mar
+
+./bible luke 	 17	4	 3 	#si tu hermano peca y se arrepintiere  perdonale
+
+./bible luke 	 17	5			#Señor aumentanos la fe
+
+./bible luke 	 17	6			#fe como un grano de mostaza
+
+./bible luke 	 17	7   10	#siervos inutiles somos		
+
+./bible luke 	 17	11  19	#yendo a Jerusalem paso por samaria y salieron 10 leprosos
+
+./bible luke 	 17	20	 21   #Fariseos preguntan cuando habia de venir el reino de dios
+
+./bible luke 	 17	22	 23	# Dias vendran que querran ver uno de los dias del hijo del hombre
+
+./bible luke 	 17	24	 	   # su venida será como el relampago
+
+./bible luke 	 17	25			#rechazado de esta generacion	 
+
+./bible luke 	 17	26		30	#como los dias de Noe y sodoma
+
+./bible luke 	 17	33		36	#uno sera tomado y el otro dejado
+
+./bible luke 	 17	37			#donde se juntan las aguilas allí el estará cuerpo
+
+./bible luke 	 18	1		8	#parabola del juez injusto
+
+./bible luke 	 18	9		14 #parabola del fariseo y el publicano
+
+./bible luke 	 18	15	   17 #dejad que los niños se acerquen a mi
+
+./bible luke 	 18	18		24 #Joven rico, maestro bueno
+	
+./bible luke 	 18	25			#camello pase por el ojo de una aguja que un rico entrar al reino de Dios 
+
+./bible luke 	 18	26		27 #quien podra ser salvo, para el hombre es imposible
+
+	
+./bible luke 	 18	28		30	#nosotros lo hemos dejado todo, recibireis la vida eterna en el mundo que vendra
+
+./bible luke 	 18	31		34	#Jesus profetiza que será entrgado a los gentiles
+
+./bible luke 	 18	35		43 #Jesus sana a Batimaeus
+
+
 ./bible mark    10  46  52   #camino jerusalem en jerico Jesus sana a Bartimaeus
 
+./bible luke    19  1   10    #Jesus salva a Zaqueo
+
+./bible luke    19  11  28      #La parabola de los diez siervos y las 10 minas
+
+
+./bible  mark   11  1   7
+./bible luke    19  29  35      #cerca de betfage y betania en el monte de las olivas manda desatar el pollino
 
 
 
+./bible luke    19  36  40      #Bendito el que vienen en el nombre del señor
+
+
+./bible luke    19  41  44      #Jesus llora sobre Jerusalem
+
+
+
+
+./bible  mark   11  8   11      #Bendito el que vienen en el nombre del señor
+./bible  mark   11  12  14      #Jesus maldice la higera
+
+
+./bible  mark   11  15  19      #Jesus limpia el templo
+./bible luke    19  45  48      #Jesus limpia el templo
+
+
+./bible  mark   11	20	26			#La higera se seco
+
+./bible  mark   11	27	33			#ni yo os digo con que autoridad hago estas cosas
+./bible luke    20	1	8			#ni yo os digo con que autoridad hago estas cosas
+
+
+
+./bible mark	12	1	11			#la parabola de la viña y los labradores malvados
+./bible luke   20	9	18			#la parabola de la viña y los labradores malvados
+
+./bible luke   20	19	26		   #dad al cesar lo que es del cesar
+./bible mark	12	12	17			#dad al cesar lo que es del cesar
+
+
+./bible mark	12	18	27			#los saduceos preguntan de la resurreccion
+./bible luke   20	27	38			#los saduceos preguntan de la resurreccion
+
+
+./bible mark	12	28	34			#cual es el mas grande mandamiento
+
+
+./bible mark	12	35	37			#Jesus pregunta como es que el cristo es el hijo de David
+./bible luke   20	39	44			#Jesus pregunta como es que el cristo es el hijo de David	
+
+./bible mark	12	38	40			#guardense de los escribas
+./bible luke   20	45	47			#guardense de los escribas	
+
+
+./bible mark	12	41	44			#Esta viuda echo mas que los ricos
+./bible luke   21	1	4			#Esta viuda echo mas que los ricos
+
+
+
+
+./bible mark_RVA	13	1	2			#No quedará piedra sobre piedra
+./bible luke_RVA   21	5	6
+
+./bible mark_RVA	 13	3 4    #Cuando seran estas cosas y las señales del fin
+./bible luke_RVA   21	7 			
+
+
+./bible mark_RVA	 13	5	6		#vendran falsos cristos
+./bible luke_RVA   21	8
+
+./bible mark_RVA	 13	7	8		#guerras,terremotos y hambres, principios de dolores
+./bible luke_RVA   21	9	11		
+
+./bible 	mark_RVA	 13	9	13		#os entregaran a  concilios
+./bible luke_RVA   21	12	19
+
+./bible 	mark_RVA	 13	14	20    #La abominacion desoladora
+./bible luke_RVA   21	20	24
+
+
+./bible 	mark_RVA	 13	21	23		#falsos cristo
+
+./bible 	mark_RVA	 13	24	27		#señales en el cielo y la venida del señor
+./bible luke_RVA   21	25	28
+
+
+
+./bible 	mark_RVA	 13	28 37		#de parabola la higera, velad
+./bible  luke_RVA  21	29	38
+
+
+
+
+./bible	mark_RVA	 14	1	2		#A 2 dias de la pascua planean matarlo
+./bible luke_RVA	 22   1	2
+
+./bible	mark_RVA	 14	3	9		#Jesus es ungido para su sepultura
+
+./bible	mark_RVA	 14	10	11		#Judas va a ver a los sacerdotes para entregarlo
+./bible  luke_RVA	 22   3	6
+	
+./bible	mark_RVA	 14	12	17		#Jesus manda donde preparar la pascua
+./bible  luke_RVA	 22   7	14
+
+
+
+
+./bible  luke_RVA	 22   15  20   #Jesus celebra la sana cena
+
+ 
+./bible  luke_RVA	 22   21  23   #Ay de aquel porquien el hijo del hombre es entregado
+./bible	mark_RVA	 14	18  21	#Jesus profetiza que uno de los discipulos lo va a entregar
+
+
+./bible	mark_RVA	 14	22	 25   #Jesus parte el pan y bebe el vino
+./bible  luke_RVA	 22   24  30   #contineda quien habria de ser el mayor
+
+./bible  luke_RVA	 22   31  34	#Jesus predice que pedro lo negara
+
+./bible  luke_RVA	 22   35	38		#Jesus les dice que se preparen
+
+./bible  luke_RVA	 22   39			#se van al monte de las olivas
+
+./bible	mark_RVA	 14	26			#se van al monte de las olivas
+
+./bible	mark_RVA	 14	27  28	#todos se escandalizaran
+
+./bible	mark_RVA	 14	29  31	#Pedro negará a Jesus
+
+
+
+
+
+./bible	mark_RVA	 14	32  42	#Jesus or en getsemni
+./bible  luke_RVA	 22   40	 46
+
+
+
+./bible	mark_RVA	 14	43  54   #Jesus es apresado
+./bible  luke_RVA	 22   47  54
+
+
+
+./bible	mark_RVA	 14	55  65	#concilio de los sacerdotes contra Jesus
+
+
+./bible	mark_RVA	 14	66  72
+./bible  luke_RVA	 22   55  62   #Pedro niega a Jesus
+
+
+./bible  luke_RVA	 22   63  71    #concilio de los sacerdotes contra Jesus
+
+
+
+./bible luke_RVA	 23	1	5     #Jesus es entreagdo a Pilato
+
+
+./bible luke_RVA	 23	6	12		#Jesus es mandado con herodes
+
+
+
+
+./bible luke_RVA	 23	13  25
+./bible mark_RVA	 15	1 	15    #Jesus es entregado y condenado por Pilato
+
+
+
+
+
+./bible mark_RVA	 15	16	20		#los soldados se burlan de Jesus
+
+./bible mark_RVA	 15	21	22		#cargan a cirene para llevar cruz camino a golgota
+
+./bible luke_RVA	 23	26	31		#si en el arbol verde hacen estas cosas que sera en el seco
+
+./bible luke_RVA	 23	32 		#llevaban otros dos malechores a ser muertos
+
+./bible luke_RVA	 23	33			# le colgaron con los dos ladrones a su izquierda y a su derecha 
+
+./bible mark_RVA	 15	23			#le dieron a beber vino con mirra	
+
+./bible luke_RVA	 23	33	 34	#echaron suertes y dijo padre perdonalos
+./bible mark_RVA	 15	24			#echaron suerte sobre sus vestidos
+
+./bible mark_RVA	 15	25  		#y era la hora 3 cuando lo colgaron
+
+./bible mark_RVA	 15	26  		#titulo rey de los judios
+
+./bible mark_RVA	 15	27  28	#y colgaron 2 ladrones, con los inucuos fue contado
+
+./bible luke_RVA	 23	35
+./bible mark_RVA	 15	29  30	#los que pasaban se burlaban, salvate a ti mismo
+
+./bible luke_RVA	 23	36	 37   #los soldados dieron vinagre y le escarnecian
+
+./bible luke_RVA	 23	38			#TITULO ESTE ES EL REY DE LOS JUDIOS
+
+./bible mark_RVA	 15	31	 32	#los escribas: a otros salvo, bajate y creeremos en ti, y tambien los ladrones
+./bible luke_RVA	 23	39	 43 	#Jesus habla con los malechores
+
+fi
+./bible luke_RVA	 23	44	 45 	#el velo del templo se rasgo
+./bible mark_RVA	 15	33			#la hora sexta fueron hechas tinieblas
+
+./bible mark_RVA	 15	34	 41	#la hora novena eli eli lama sabactani	Jesus expira
+./bible luke_RVA	 23	46			#Padre en tus manos encomiendo mi espiritu
+
+./bible luke_RVA	 23	47			#centurion dice verdaderamente este hombre era justo
+
+./bible luke_RVA	 23	48			#los que vieron el espectaculo se volvian hiriendo sus pechos
+
+./bible luke_RVA	 23	49			#sus conocidos estaban mirando de lejos
+
+./bible mark_RVA	 15	42  47	#Jesus es sepultado por jose de Arimatea
+./bible luke_RVA	 23	50	 56	#Jesus es sepultado por jose de Arimatea y las mujeres lo ungen
+
+
+
+exit
 
 
 
