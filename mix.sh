@@ -658,63 +658,50 @@ if  false; then
 ./bible  luke_RVA	 22   15  20   #Jesus celebra la sana cena
 
  
-./bible  luke_RVA	 22   21  23   #Ay de aquel porquien el hijo del hombre es entregado
-./bible	mark_RVA	 14	18  21	#Jesus profetiza que uno de los discipulos lo va a entregar
+./bible  luke_RVA	 22	21  23   	#Ay de aquel porquien el hijo del hombre es entregado
+./bible	mark_RVA	 14	18  21		#Jesus profetiza que uno de los discipulos lo va a entregar
 
 
-./bible	mark_RVA	 14	22	 25   #Jesus parte el pan y bebe el vino
-./bible  luke_RVA	 22   24  30   #contineda quien habria de ser el mayor
+./bible	mark_RVA	 14	22	25		#Jesus parte el pan y bebe el vino
+./bible  luke_RVA	 22	24	30		#contienda quien habria de ser el mayor
 
-./bible  luke_RVA	 22   31  34	#Jesus predice que pedro lo negara
+./bible  luke_RVA	 22	31	34		#Jesus predice que pedro lo negara
 
-./bible  luke_RVA	 22   35	38		#Jesus les dice que se preparen
+./bible  luke_RVA	 22	35	38		#Jesus les dice que se preparen
 
-./bible  luke_RVA	 22   39			#se van al monte de las olivas
+./bible  luke_RVA	 22	39			#se van al monte de las olivas
 
 ./bible	mark_RVA	 14	26			#se van al monte de las olivas
 
-./bible	mark_RVA	 14	27  28	#todos se escandalizaran
+./bible	mark_RVA	 14	27  28		#todos se escandalizaran
 
-./bible	mark_RVA	 14	29  31	#Pedro negará a Jesus
-
-
+./bible	mark_RVA	 14	29  31		#Pedro negará a Jesus
 
 
-
-./bible	mark_RVA	 14	32  42	#Jesus or en getsemni
-./bible  luke_RVA	 22   40	 46
+./bible	mark_RVA	 14	32	42		#Jesus or en getsemni
+./bible  luke_RVA	 22 40	46
 
 
 
-./bible	mark_RVA	 14	43  54   #Jesus es apresado
-./bible  luke_RVA	 22   47  54
+./bible	mark_RVA	 14	43  54   	#Jesus es apresado
+./bible  luke_RVA	 22 47  54
 
-
-
-./bible	mark_RVA	 14	55  65	#concilio de los sacerdotes contra Jesus
+./bible	mark_RVA	 14	55  65		#concilio de los sacerdotes contra Jesus
 
 
 ./bible	mark_RVA	 14	66  72
-./bible  luke_RVA	 22   55  62   #Pedro niega a Jesus
+./bible  luke_RVA	 22   55  62	#Pedro niega a Jesus
 
 
 ./bible  luke_RVA	 22   63  71    #concilio de los sacerdotes contra Jesus
 
-
-
-./bible luke_RVA	 23	1	5     #Jesus es entreagdo a Pilato
-
+./bible luke_RVA	 23	1	5     	#Jesus es entreagdo a Pilato
 
 ./bible luke_RVA	 23	6	12		#Jesus es mandado con herodes
 
 
-
-
 ./bible luke_RVA	 23	13  25
-./bible mark_RVA	 15	1 	15    #Jesus es entregado y condenado por Pilato
-
-
-
+./bible mark_RVA	 15	1 	15    	#Jesus es entregado y condenado por Pilato
 
 
 ./bible mark_RVA	 15	16	20		#los soldados se burlan de Jesus
@@ -723,36 +710,36 @@ if  false; then
 
 ./bible luke_RVA	 23	26	31		#si en el arbol verde hacen estas cosas que sera en el seco
 
-./bible luke_RVA	 23	32 		#llevaban otros dos malechores a ser muertos
+./bible luke_RVA	 23	32 			#llevaban otros dos malechores a ser muertos
 
 ./bible luke_RVA	 23	33			# le colgaron con los dos ladrones a su izquierda y a su derecha 
 
 ./bible mark_RVA	 15	23			#le dieron a beber vino con mirra	
 
-./bible luke_RVA	 23	33	 34	#echaron suertes y dijo padre perdonalos
+./bible luke_RVA	 23	33	 34		#echaron suertes y dijo padre perdonalos
 ./bible mark_RVA	 15	24			#echaron suerte sobre sus vestidos
 
 ./bible mark_RVA	 15	25  		#y era la hora 3 cuando lo colgaron
 
 ./bible mark_RVA	 15	26  		#titulo rey de los judios
 
-./bible mark_RVA	 15	27  28	#y colgaron 2 ladrones, con los inucuos fue contado
+./bible mark_RVA	 15	27  28		#y colgaron 2 ladrones, con los inucuos fue contado
 
 ./bible luke_RVA	 23	35
-./bible mark_RVA	 15	29  30	#los que pasaban se burlaban, salvate a ti mismo
+./bible mark_RVA	 15	29	30		#los que pasaban se burlaban, salvate a ti mismo
 
-./bible luke_RVA	 23	36	 37   #los soldados dieron vinagre y le escarnecian
+./bible luke_RVA	 23	36	37   	#los soldados dieron vinagre y le escarnecian
 
 ./bible luke_RVA	 23	38			#TITULO ESTE ES EL REY DE LOS JUDIOS
 
-./bible mark_RVA	 15	31	 32	#los escribas: a otros salvo, bajate y creeremos en ti, y tambien los ladrones
+./bible mark_RVA	 15	31	 32		#los escribas: a otros salvo, bajate y creeremos en ti, y tambien los ladrones
 ./bible luke_RVA	 23	39	 43 	#Jesus habla con los malechores
 
-fi
+
 ./bible luke_RVA	 23	44	 45 	#el velo del templo se rasgo
 ./bible mark_RVA	 15	33			#la hora sexta fueron hechas tinieblas
 
-./bible mark_RVA	 15	34	 41	#la hora novena eli eli lama sabactani	Jesus expira
+./bible mark_RVA	 15	34	 41		#la hora novena eli eli lama sabactani	Jesus expira
 ./bible luke_RVA	 23	46			#Padre en tus manos encomiendo mi espiritu
 
 ./bible luke_RVA	 23	47			#centurion dice verdaderamente este hombre era justo
@@ -761,8 +748,22 @@ fi
 
 ./bible luke_RVA	 23	49			#sus conocidos estaban mirando de lejos
 
-./bible mark_RVA	 15	42  47	#Jesus es sepultado por jose de Arimatea
-./bible luke_RVA	 23	50	 56	#Jesus es sepultado por jose de Arimatea y las mujeres lo ungen
+./bible mark_RVA	 15	42  47		#Jesus es sepultado por jose de Arimatea
+./bible luke_RVA	 23	50	56		#Jesus es sepultado por jose de Arimatea y las mujeres lo ungen
+
+fi
+./bible mark_RVA	 16	1  8		#Maria y Maria van al sepulcro a ver a Jesus y no lo encuentran
+./bible luke_RVA	 24	1 	10
+
+
+exit
+./bible mark_RVA	 16	9			#Jesus se aparece a Maria magdalena
+
+./bible mark_RVA	 16	10 11		#va a dar aviso a todos los demas y no le creen
+
+./bible mark_RVA	 16	12	13		#Jesus se aparece a otro 2 y tampoco les creen
+
+./bible mark_RVA	 16	14	20		#Jesus se aparece a los 11 y le dice id y predicar el evangelio por todo el mundo
 
 
 
